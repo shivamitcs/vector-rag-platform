@@ -234,7 +234,7 @@ Centralized AI operations dashboard providing visibility into ingestion workflow
 ## 📂 Intelligent Document Ingestion
 
 <p align="center">
-  <img src="./assets/screenshots/Upload-dark.png" width="100%" alt="Document Upload" />
+  <img src="./assets/screenshots/upload-dark.png" width="100%" alt="Document Upload" />
 </p>
 
 Advanced ingestion infrastructure engineered for intelligent document processing, semantic chunking, embedding generation, and AI-ready knowledge indexing.
@@ -264,7 +264,7 @@ Unified AI interaction workspace designed for intelligent enterprise conversatio
 ## 🌐 Website Scraping Infrastructure
 
 <p align="center">
-  <img src="./assets/screenshots/Web-scraping-dark.png" width="100%" alt="Web Scraping" />
+  <img src="./assets/screenshots/web-scraping-dark.png" width="100%" alt="Web Scraping" />
 </p>
 
 Enterprise web ingestion pipelines enabling automated website indexing, semantic extraction, and contextual knowledge synchronization.
@@ -284,7 +284,7 @@ Scalable API ingestion architecture for integrating structured enterprise system
 ## 🗄️ Database Vectorization System
 
 <p align="center">
-  <img src="./assets/screenshots/Database-dark.png" width="100%"alt="Database Infrastructure" />
+  <img src="./assets/screenshots/database-dark.png" width="100%"alt="Database Infrastructure" />
 </p>
 
 Structured database indexing workflows engineered for semantic retrieval, intelligent querying, and vectorized enterprise data processing.
@@ -294,7 +294,7 @@ Structured database indexing workflows engineered for semantic retrieval, intell
 ## ⚡ Batch Processing Workflows
 
 <p align="center">
-  <img src="./assets/screenshots/Batch-dark.png" width="100%" alt="Batch Processing" />
+  <img src="./assets/screenshots/batch-dark.png" width="100%" alt="Batch Processing" />
 </p>
 
 High-performance batch ingestion pipelines optimized for scalable embedding generation, indexing orchestration, and large-scale knowledge processing.
