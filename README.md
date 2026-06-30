@@ -5,7 +5,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-Frontend-black)
 ![RAG](https://img.shields.io/badge/AI-Retrieval%20Augmented%20Generation-purple)
 ![Vector Search](https://img.shields.io/badge/Vector-Semantic%20Retrieval-orange)
-![Embeddings](https://img.shields.io/badge/Embeddings-OpenAI%20%7C%20HuggingFace-success)
+![Embeddings](https://img.shields.io/badge/Embeddings-OpenAI%20%7C%20HuggingFace-success) 
 ![Database](https://img.shields.io/badge/Database-pgvector-blue)
 ![Deployment](https://img.shields.io/badge/Deployment-Nginx-green)
 ![Status](https://img.shields.io/badge/Status-Production-success)
