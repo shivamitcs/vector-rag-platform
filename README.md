@@ -15,7 +15,7 @@ Enterprise-grade Vector RAG platform engineered for semantic knowledge retrieval
 ---
 
 <p align="center">
-  <img  src="./assets/banner/vector-rag-banner.png" width="100%" alt="Vector RAG Platform Banner"/>
+  <img  src="./assets/banner/vector-rag-banner.png" width="100%" alt="Vector RAG Platform Banner" />
 </p>
 
 ---
