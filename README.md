@@ -236,7 +236,7 @@ Enterprise AI knowledge infrastructure designed for semantic retrieval, contextu
 ## 📊 Platform Overview Dashboard
 
 <p align="center">
-  <img  src="./assets/screenshots/Overview-dark.png" width="100%" alt="Platform Overview"/>
+  <img  src="./assets/screenshots/Overview-dark.png" width="100%" alt="Platform Overview" />
 </p>
 
 Centralized AI operations dashboard providing visibility into ingestion workflows, vector infrastructure, embedding pipelines, and semantic retrieval orchestration.
@@ -246,7 +246,7 @@ Centralized AI operations dashboard providing visibility into ingestion workflow
 ## 📂 Intelligent Document Ingestion
 
 <p align="center">
-  <img src="./assets/screenshots/upload-dark.png" width="100%" alt="Document Upload"/>
+  <img src="./assets/screenshots/upload-dark.png" width="100%" alt="Document Upload" />
 </p>
 
 Advanced ingestion infrastructure engineered for intelligent document processing, semantic chunking, embedding generation, and AI-ready knowledge indexing.
@@ -256,7 +256,7 @@ Advanced ingestion infrastructure engineered for intelligent document processing
 ## 🤖 Conversational AI Interface
 
 <p align="center">
-  <img src="./assets/screenshots/AI-Chat-dark.png" width="100%" alt="AI Chat Interface"/>
+  <img src="./assets/screenshots/AI-Chat-dark.png" width="100%" alt="AI Chat Interface" />
 </p>
 
 Context-aware conversational AI system powered by semantic retrieval pipelines, vector similarity search, and enterprise knowledge orchestration.
@@ -266,7 +266,7 @@ Context-aware conversational AI system powered by semantic retrieval pipelines, 
 ## 🧠 AI Assistant Workspace
 
 <p align="center">
-  <img src="./assets/screenshots/AI-Assistant-dark.png" width="100%" alt="AI Assistant"/>
+  <img src="./assets/screenshots/AI-Assistant-dark.png" width="100%" alt="AI Assistant" />
 </p>
 
 Unified AI interaction workspace designed for intelligent enterprise conversations, contextual retrieval workflows, and AI-assisted knowledge discovery.
@@ -276,7 +276,7 @@ Unified AI interaction workspace designed for intelligent enterprise conversatio
 ## 🌐 Website Scraping Infrastructure
 
 <p align="center">
-  <img src="./assets/screenshots/web-scraping-dark.png" width="100%" alt="Web Scraping"/>
+  <img src="./assets/screenshots/web-scraping-dark.png" width="100%" alt="Web Scraping" />
 </p>
 
 Enterprise web ingestion pipelines enabling automated website indexing, semantic extraction, and contextual knowledge synchronization.
@@ -286,7 +286,7 @@ Enterprise web ingestion pipelines enabling automated website indexing, semantic
 ## 🔌 API Integration Infrastructure
 
 <p align="center">
-  <img src="./assets/screenshots/API-dark.png" width="100%" alt="API Integration"/>
+  <img src="./assets/screenshots/API-dark.png" width="100%" alt="API Integration" />
 </p>
 
 Scalable API ingestion architecture for integrating structured enterprise systems into unified vector retrieval infrastructure.
@@ -296,7 +296,7 @@ Scalable API ingestion architecture for integrating structured enterprise system
 ## 🗄️ Database Vectorization System
 
 <p align="center">
-  <img src="./assets/screenshots/database-dark.png" width="100%"alt="Database Infrastructure"/>
+  <img src="./assets/screenshots/database-dark.png" width="100%"alt="Database Infrastructure" />
 </p>
 
 Structured database indexing workflows engineered for semantic retrieval, intelligent querying, and vectorized enterprise data processing.
@@ -306,7 +306,7 @@ Structured database indexing workflows engineered for semantic retrieval, intell
 ## ⚡ Batch Processing Workflows
 
 <p align="center">
-  <img src="./assets/screenshots/batch-dark.png" width="100%" alt="Batch Processing"/>
+  <img src="./assets/screenshots/batch-dark.png" width="100%" alt="Batch Processing" />
 </p>
 
 High-performance batch ingestion pipelines optimized for scalable embedding generation, indexing orchestration, and large-scale knowledge processing.
